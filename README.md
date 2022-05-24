@@ -2,3 +2,5 @@
 
 Простая программа для поиска фильмов через стороний API.
 Поиск работает только для фильмов и сериалов на English
+
+Live DEMO https://pavelborovinskiy.github.io/react-movies/
